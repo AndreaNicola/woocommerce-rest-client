@@ -1,0 +1,1 @@
+module "github.com/AndreaNicola/woocommerce-rest-client"
